@@ -87,7 +87,7 @@ class EthernetInterfacesMixin(UtilsMixin):
             adapter.get("endpoint_ports"),
             [],
         )
-        peer_interface = endpoint_ports[node_index] if node_index < len(endpoint_ports) else None
+        peer_interface = endpoint_ports[node_index] if node_index < len(endpoint_ports) else "None"
         default_channel_group_id = int("".join(re.findall(r"\d", adapter["switch_ports"][0])))
         channel_group_id = get(adapter, "port_channel.channel_id", default=default_channel_group_id)
         short_esi = self._get_short_esi(adapter, channel_group_id)

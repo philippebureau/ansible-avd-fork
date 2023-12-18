@@ -613,6 +613,7 @@ ethernet_interfaces:
   ospf_network_point_to_point: true
 - name: Ethernet24
   peer: PC
+  peer_interface: None
   peer_type: network_port
   port_profile: DOT1X_PORT_PROFILE
   description: PC
@@ -637,6 +638,7 @@ ethernet_interfaces:
     reauthorization_request_limit: 3
 - name: Ethernet25
   peer: PC
+  peer_interface: None
   peer_type: network_port
   port_profile: DOT1X_PORT_PROFILE
   description: PC
