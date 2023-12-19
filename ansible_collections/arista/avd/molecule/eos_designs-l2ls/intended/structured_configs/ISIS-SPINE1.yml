@@ -44,6 +44,7 @@ ethernet_interfaces:
     mode: active
 - name: Ethernet10
   peer: Endpoint
+  peer_interface: None
   peer_type: network_port
   description: Endpoint
   shutdown: false

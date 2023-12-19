@@ -134,6 +134,7 @@ ethernet_interfaces:
     mode: active
 - name: Ethernet1
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -165,6 +166,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet2
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -196,6 +198,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet3
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -227,6 +230,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet4
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -258,6 +262,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet5
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -289,6 +294,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet6
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -320,6 +326,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet7
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -351,6 +358,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet8
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -382,6 +390,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet9
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -413,6 +422,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet10
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -444,6 +454,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet11
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -475,6 +486,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet12
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -506,6 +518,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet13
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -537,6 +550,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet14
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -568,6 +582,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet15
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -599,6 +614,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet16
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -630,6 +646,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet17
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -661,6 +678,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet18
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -692,6 +710,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet19
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -723,6 +742,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet20
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -754,6 +774,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet21
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -785,6 +806,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet22
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -816,6 +838,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet23
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -847,6 +870,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet24
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -878,6 +902,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet25
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -909,6 +934,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet26
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -940,6 +966,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet27
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -971,6 +998,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet28
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1002,6 +1030,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet29
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1033,6 +1062,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet30
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1064,6 +1094,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet31
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1095,6 +1126,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet32
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1126,6 +1158,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet33
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1157,6 +1190,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet34
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1188,6 +1222,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet35
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1219,6 +1254,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet36
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1250,6 +1286,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet37
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1281,6 +1318,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet38
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1312,6 +1350,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet39
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1343,6 +1382,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet40
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1374,6 +1414,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet41
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1405,6 +1446,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet42
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1436,6 +1478,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet43
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1467,6 +1510,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet44
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1498,6 +1542,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet45
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1529,6 +1574,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet46
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1560,6 +1606,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet47
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port
@@ -1591,6 +1638,7 @@ ethernet_interfaces:
     vlan: 120
 - name: Ethernet48
   peer: IDF1 Standard Port
+  peer_interface: None
   peer_type: network_port
   port_profile: PP-DOT1X
   description: IDF1 Standard Port

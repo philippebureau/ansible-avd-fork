@@ -40,6 +40,7 @@ ethernet_interfaces:
     mode: active
 - name: Ethernet10
   peer: Endpoint
+  peer_interface: None
   peer_type: network_port
   description: Endpoint
   shutdown: false
@@ -48,6 +49,7 @@ ethernet_interfaces:
   vlans: '100'
 - name: Ethernet11
   peer: Endpoint
+  peer_interface: None
   peer_type: network_port
   description: Endpoint
   shutdown: false
@@ -56,6 +58,7 @@ ethernet_interfaces:
   vlans: '100'
 - name: Ethernet12
   peer: IP Phone
+  peer_interface: None
   peer_type: network_port
   description: IP Phone
   shutdown: false
@@ -67,6 +70,7 @@ ethernet_interfaces:
     trunk: untagged
 - name: Ethernet13
   peer: IP Phone
+  peer_interface: None
   peer_type: network_port
   description: IP Phone
   shutdown: false
@@ -78,6 +82,7 @@ ethernet_interfaces:
     trunk: untagged
 - name: Ethernet14
   peer: IP Phone with no native VLAN
+  peer_interface: None
   peer_type: network_port
   description: IP Phone with no native VLAN
   shutdown: false
